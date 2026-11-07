@@ -1,0 +1,10 @@
+{
+  "name": "BugData Web 2.0",
+  "short_name": "BugData",
+  "description": "Practical growth infrastructure for Zimbabwean businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2efe8",
+  "theme_color": "#17201d",
+  "icons": []
+}
