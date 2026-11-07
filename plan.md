@@ -2,7 +2,7 @@
 
 ## Scope
 
-Build a separate, reviewable premium website prototype for BugData Investments. The current `bugdata-investments-website` site remains untouched. This prototype will demonstrate a world-class homepage experience for Zimbabwean businesses and will be ready for private GitHub review before any decision to replace the live site.
+Build a separate, reviewable premium website prototype for BugData Investments. The current `bugdata-investments-website` site remains untouched. This prototype demonstrates a world-class homepage experience for Zimbabwean businesses and is mirrored in a public GitHub repository for review before any decision to replace the live site.
 
 ## Implementation approach
 
@@ -97,8 +97,8 @@ bugdataweb20/
 5. Start the port-3000 development service and verify representative routes.
 6. Capture desktop and mobile Preview screenshots for visual QA.
 7. Run a read-only requirements review, fix confirmed issues, and recheck affected routes.
-8. Commit the prototype to a new private GitHub repository named `bugdata-web-2-0` through the Webdev canonical GitHub confirmation flow.
-9. Publish a preview only after the repository checkpoint is recorded and the user has reviewed the prototype direction.
+8. Commit the prototype to the public GitHub repository named `bugdata-web-2-0`; keep the managed Webdev project checkpoint in its own project origin.
+9. Keep the current live site unchanged while the user reviews the Webdev Preview and public source repository.
 
 ## Constraints
 
