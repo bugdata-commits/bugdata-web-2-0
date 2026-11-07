@@ -7,6 +7,6 @@
   "scripts": {
     "dev": "node server.mjs",
     "start": "node server.mjs",
-    "build": "node -e \"console.log('Static BugData Web 2.0 build ready')\""
+    "build": "rm -rf dist && mkdir -p dist && cp index.html styles.css app.js manifest.webmanifest robots.txt sitemap.xml manus-routes.json 404.html dist/ && cp -R client-portal insights dist/"
   }
 }
